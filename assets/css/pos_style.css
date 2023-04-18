@@ -1,0 +1,5 @@
+.dokan-geolocation-options.dokan-edit-row.dokan-clearfix,
+.dokan-attribute-variation-options.dokan-edit-row.dokan-clearfix.hide_if_external,
+.dokan-product-inventory.dokan-edit-row {
+  display: none !important;
+}
